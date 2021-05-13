@@ -1,0 +1,427 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Sun May 16 21:24:58 2021
+
+# Variables
+
+# environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+GNOME_SHELL_SESSION_MODE = ubuntu
+# environment
+SNAP_INSTANCE_KEY = 
+# environment
+GJS_DEBUG_OUTPUT = stderr
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-88b2b5db-c0d7-4221-8f1b-e24e8a226b0f.sock
+# environment
+LC_NAME = pt_BR.UTF-8
+# environment
+LC_NUMERIC = pt_BR.UTF-8
+# environment
+VSCODE_CWD = /home/felipe
+# environment
+WINDOWPATH = 2
+# makefile (from 'Makefile', line 2)
+LIBS = -lm
+# environment
+LC_ADDRESS = pt_BR.UTF-8
+# default
+MAKE_COMMAND := make
+# environment
+QT_ACCESSIBILITY = 1
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+SNAP_INSTANCE_NAME = code
+# environment
+GDK_PIXBUF_MODULEDIR = /snap/code/65/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/felipe/Projects/Worst-Case-Execution-Times
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+XDG_DATA_DIRS = /usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+LANG = C
+# environment
+XAUTHORITY = /run/user/1000/gdm/Xauthority
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/local/include /usr/include /usr/include
+# makefile
+MAKEFLAGS = pqrR
+# makefile
+CURDIR := /home/felipe/Projects/Worst-Case-Execution-Times
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+LESSOPEN = | /usr/bin/lesspipe %s
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# default
+.SHELLFLAGS := -c
+# environment
+XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu:/etc/xdg
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+VSCODE_CRASH_REPORTER_START_OPTIONS = {"companyName":"Microsoft","productName":"VSCode","submitURL":"appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=54f08066-aec9-4bca-92c8-412318f09ab3&iid=54f08066-aec9-4bca-92c8-412318f09ab3&sid=54f08066-aec9-4bca-92c8-412318f09ab3","uploadToServer":true}
+# environment
+XDG_SESSION_DESKTOP = ubuntu
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# environment
+SNAP_REEXEC = 
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 159642
+# environment
+XDG_SESSION_TYPE = x11
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+BAMF_DESKTOP_FILE_HINT = /var/lib/snapd/desktop/applications/code_code.desktop
+# environment
+SESSION_MANAGER = local/felipe-ThinkPad-E14:@/tmp/.ICE-unix/3186,unix/felipe-ThinkPad-E14:/tmp/.ICE-unix/3186
+# automatic
+*F = $(notdir $*)
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+BREAKPAD_DUMP_LOCATION = /home/felipe/.config/Code/exthost Crash Reports
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# environment
+GNOME_DESKTOP_SESSION_ID = this-is-deprecated
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+XMODIFIERS = @im=ibus
+# makefile (from 'Makefile', line 13)
+HEADERS = $(wildcard *.h)
+# environment
+GJS_DEBUG_TOPICS = JS ERROR;JS LOG
+# environment
+SHLVL = 0
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+SNAP_COOKIE = yW3rbYHJeEoEa68L132SfwOuJzSMyXuY4x1Bg8hEo9WxgV0w8Aq-
+# environment
+PATH = /home/felipe/.local/bin:/home/felipe/.cargo/bin:/home/felipe/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+# default
+MAKEFILES := 
+# environment
+LC_MONETARY = pt_BR.UTF-8
+# automatic
+^F = $(notdir $^)
+# environment
+SNAP_USER_COMMON = /home/felipe/snap/code/common
+# environment
+LC_TIME = pt_BR.UTF-8
+# environment
+SNAP = /snap/code/65
+# environment
+INVOCATION_ID = 36af32b4268c4c5f8ec942005d642e46
+# environment
+SNAP_REVISION = 65
+# environment
+SNAP_REAL_HOME = /home/felipe
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = felipe
+# environment
+LC_TELEPHONE = pt_BR.UTF-8
+# environment
+LESSCLOSE = /usr/bin/lesspipe %s %s
+# automatic
+?F = $(notdir $?)
+# environment
+XDG_CURRENT_DESKTOP = Unity
+# environment
+LS_COLORS = 
+# automatic
++F = $(notdir $+)
+# environment
+DESKTOP_SESSION = ubuntu
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
+# makefile (from 'Makefile', line 12)
+OBJECTS = $(patsubst %.c, %.o, $(wildcard *.c))
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = felipe
+# environment
+GIO_LAUNCHED_DESKTOP_FILE = /var/lib/snapd/desktop/applications/code_code.desktop
+# environment
+SNAP_ARCH = amd64
+# makefile
+.DEFAULT_GOAL := default
+# environment
+DISPLAY = :0
+# environment
+USER = felipe
+# environment
+GTK_MODULES = gail:atk-bridge
+# default
+MAKE_VERSION := 4.3
+# environment
+DISABLE_WAYLAND = 1
+# environment
+SNAP_DATA = /var/snap/code/65
+# environment
+SNAP_CONTEXT = yW3rbYHJeEoEa68L132SfwOuJzSMyXuY4x1Bg8hEo9WxgV0w8Aq-
+# makefile (from 'Makefile', line 5)
+LDFLAGS = 
+# environment
+MANAGERPID = 2957
+# environment
+LC_MEASUREMENT = pt_BR.UTF-8
+# environment
+GIO_LAUNCHED_DESKTOP_FILE_PID = 159598
+# environment
+SSH_AGENT_PID = 3140
+# environment
+VSCODE_NODE_CACHED_DATA_DIR = /home/felipe/.config/Code/CachedData/054a9295330880ed74ceaedda236253b4f39a335
+# environment
+_ = /snap/code/65/usr/share/code/code
+# environment
+LC_PAPER = pt_BR.UTF-8
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# makefile (from 'Makefile', line 4)
+CFLAGS = -g -Wall -DDEBUG
+# environment
+GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
+# environment
+GDK_PIXBUF_MODULE_FILE = /home/felipe/snap/code/common/.cache/gdk-pixbuf-loaders.cache
+# environment
+LC_CTYPE = pt_BR.UTF-8
+# environment
+JOURNAL_STREAM = 8:50801
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+HOME = /home/felipe
+# environment
+QT_IM_MODULE = ibus
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-add8bd07-1.56.2-main.sock
+# environment
+SNAP_NAME = code
+# environment
+GSETTINGS_SCHEMA_DIR = /snap/code/65/usr/share/glib-2.0/schemas
+# environment
+IM_CONFIG_PHASE = 1
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# environment
+SNAP_VERSION = 054a9295
+# default
+SUFFIXES := 
+# makefile (from 'Makefile', line 1)
+TARGET = main
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+SNAP_COMMON = /var/snap/code/common
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# makefile (from 'Makefile', line 3)
+CC = gcc
+ 
+# environment
+SNAP_USER_DATA = /home/felipe/snap/code/65
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+GDMSESSION = ubuntu
+# environment
+LC_IDENTIFICATION = pt_BR.UTF-8
+# environment
+SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void
+# variable set hash-table stats:
+# Load=139/1024=14%, Rehash=0, Collisions=9/175=5%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 66309, inode 2497657): 15 files, no impossibilities.
+
+# 15 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+%.o: %.c wcet.h
+#  recipe to execute (from 'Makefile', line 16):
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# 1 implicit rules, 0 (0.0%) terminal.
+# Files
+
+# Not a target:
+wcet.h:
+#  Implicit rule search has been done.
+#  Last modified 2021-05-16 21:05:03.641
+#  File has been updated.
+#  Successfully updated.
+
+default: main
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Successfully updated.
+
+.PRECIOUS: main main.o wcet.o
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2021-05-16 21:08:04.449406095
+#  File has been updated.
+#  Successfully updated.
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 23):
+	-rm -f *.o
+	-rm -f $(TARGET)
+
+wcet.o: wcet.c wcet.h
+#  Precious file (prerequisite of .PRECIOUS).
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'wcet'
+#  Last modified 2021-05-16 21:10:50.782646407
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 16):
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: default
+#  Phony target (prerequisite of .PHONY).
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+main.c:
+#  Implicit rule search has been done.
+#  Last modified 2021-05-16 21:05:03.412
+#  File has been updated.
+#  Successfully updated.
+
+main: main.o wcet.o
+#  Precious file (prerequisite of .PRECIOUS).
+#  Implicit rule search has not been done.
+#  Last modified 2021-05-16 21:10:50.802639601
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 21):
+	$(CC) $(OBJECTS) -Wall $(LIBS) -o $@
+
+main.o: main.c wcet.h
+#  Precious file (prerequisite of .PRECIOUS).
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'main'
+#  Last modified 2021-05-16 21:10:50.74266002
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 16):
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Not a target:
+wcet.c:
+#  Implicit rule search has been done.
+#  Last modified 2021-05-16 21:05:03.597
+#  File has been updated.
+#  Successfully updated.
+
+.PHONY: default all clean
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=14/1024=1%, Rehash=0, Collisions=0/48=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 27 / storage = 199 B / avg = 7 B
+# current buf: size = 8162 B / used = 199 B / count = 27 / avg = 7 B
+
+# strcache performance: lookups = 59 / hit rate = 54%
+# hash-table stats:
+# Load=27/8192=0%, Rehash=0, Collisions=0/59=0%
+# Finished Make data base on Sun May 16 21:24:58 2021
+
+ 
